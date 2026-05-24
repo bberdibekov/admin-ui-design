@@ -1,5 +1,5 @@
 ---
-name: control-plane-ux
+name: Admin-ui-design
 description: >
   Design and build admin panels, settings surfaces, configuration UIs, dashboards
   for complex systems, and any interface that controls policy, routing,
@@ -19,7 +19,7 @@ description: >
   wins.
 ---
 
-# Control-Plane UX Skill
+# Admin-ui-design UX Skill
 
 This skill guides the design and implementation of **admin, settings, and
 control-plane surfaces** — UIs where a human operator configures a system,
